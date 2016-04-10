@@ -1,0 +1,12 @@
+[submodule "sc"]
+	path = sc
+	url = git@github.com:ghub/sc
+	branch = master
+[submodule "sf"]
+	path = sf
+	url = git@github.com:ghub/sf
+	branch = master
+[submodule "tf"]
+	path = tf
+	url = git@github.com:ghub/tf
+	branch = master
